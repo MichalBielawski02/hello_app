@@ -28,7 +28,7 @@ group :test do
   gem "webdrivers",         "5.0.0"
 
 group :production do
-  gem "pg", "1.3.5"
+  gem "pg"
 end
 
 end
